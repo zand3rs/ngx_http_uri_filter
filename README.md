@@ -1,0 +1,2 @@
+# ngx_http_uri_filter
+Module ngx_http_uri_filter_module
